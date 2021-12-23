@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500&display=swap" rel="stylesheet">
+
+	<link rel="stylesheet" href="./src/css/main.css">
+	<script type="module" src="./src/js/view/addView.js"></script>
+	<title>Discover Universities</title>
+</head>
+
+<body>
+	<header class="header">
+		<a class="logo" href="/index.html">
+			Universities
+		</a>
+	</header>
+
+	<div class="container">
+		<h2>Add University</h2>
+		<form class="add-edit">
+			<label>Name:</label>
+			<input type="text" name="name" required autocomplete="off">
+
+			<label>Country:</label>
+			<input type="text" name="country" required autocomplete="off">
+
+			<label>Website:</label>
+			<input type="text" name="website" required autocomplete="off">
+
+			<div class="submit">
+				<button class="btn btn--top-margin btn--display-block">Submit</button>
+			</div>
+		</form>
+	</div>
+</body>
+
+</html>
