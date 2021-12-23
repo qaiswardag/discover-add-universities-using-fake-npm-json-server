@@ -6,7 +6,7 @@
 
 ## General info
 
-Search and discover Universities around the world.
+Search, add and discover Universities around the world.
 
 ## Technologies
 
@@ -15,7 +15,6 @@ Build with:
 - Vanilla JavaScript
 - CSS
 - HTML
-- Fake json-server
 
 ## Setup
 
