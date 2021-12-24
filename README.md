@@ -13,7 +13,7 @@ Search, add and discover Universities around the world.
 Build with:
 
 - Vanilla JavaScript
-- Fake json-server
+- Fake JSON Server
 - CSS
 - HTML
 
