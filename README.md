@@ -19,7 +19,7 @@ Build with:
 
 ## Setup
 
-Install JSON Server & use port 3004 or simply change port in config file.
+Install JSON Server & use port 3004 or simply change port in config file.&nbsp;
 (JSON Server:)[https://www.npmjs.com/package/json-server]
 
 To run this project, install it locally using npm:
