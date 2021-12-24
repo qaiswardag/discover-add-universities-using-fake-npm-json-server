@@ -1,3 +1,5 @@
+# Discover Universities around the world
+
 ## Table of contents
 
 - [General info](#general-info)
@@ -6,7 +8,7 @@
 
 ## General info
 
-Search, add and discover Universities around the world.
+Write, add, delete and discover Universities around the world.
 
 ## Technologies
 
