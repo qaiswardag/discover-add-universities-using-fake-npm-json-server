@@ -19,6 +19,8 @@ Build with:
 
 ## Setup
 
+Install josn-server & use port 3004.
+
 To run this project, install it locally using npm:
 
 ```
