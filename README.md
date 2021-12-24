@@ -19,7 +19,7 @@ Build with:
 
 ## Setup
 
-Install josn-server & use port 3004.
+Install josn-server & use port 3004 or simply change port in config file. 
 
 To run this project, install it locally using npm:
 
